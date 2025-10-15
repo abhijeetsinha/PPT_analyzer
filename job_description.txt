@@ -1,0 +1,84 @@
+Job Title: Python Developer (Mid-Level/Senior)
+
+Location: Seattle, WA / Remote
+
+Job Type: Full-Time
+
+About Us:
+Contoso is a fast-growing technology company specializing in cloud-based solutions for finance and enterprise automation. Our mission is to deliver innovative, scalable software that empowers businesses to operate more efficiently. We pride ourselves on a collaborative and inclusive work environment that fosters creativity and growth.
+
+Key Responsibilities
+
+Design, develop, test, and maintain Python applications and services.
+
+Build and maintain APIs, backend systems, and integrations with third-party services.
+
+Write reusable, efficient, and modular code following best practices and coding standards.
+
+Collaborate with front-end developers, product managers, and other stakeholders to deliver end-to-end solutions.
+
+Troubleshoot, debug, and optimize applications for performance and scalability.
+
+Participate in code reviews, design discussions, and knowledge-sharing sessions.
+
+Stay updated with emerging technologies and contribute to improving development processes.
+
+Required Skills & Qualifications
+
+3–6 years of experience in Python development (for mid-level), 6+ years for senior level.
+
+Strong knowledge of Python frameworks such as Django, Flask, or FastAPI.
+
+Experience with RESTful APIs, microservices, and web application architectures.
+
+Proficiency in databases (SQL and NoSQL), e.g., PostgreSQL, MySQL, MongoDB.
+
+Familiarity with version control systems, particularly Git.
+
+Experience with unit testing, integration testing, and test-driven development (TDD).
+
+Understanding of cloud platforms such as AWS, Azure, or GCP, and containerization (Docker, Kubernetes).
+
+Knowledge of CI/CD pipelines and automated deployment processes.
+
+Strong problem-solving, debugging, and analytical skills.
+
+Ability to work independently as well as in a collaborative team environment.
+
+Preferred Skills
+
+Experience with data processing or ETL pipelines.
+
+Familiarity with message queues (RabbitMQ, Kafka).
+
+Knowledge of front-end technologies (React, Angular) is a plus.
+
+Understanding of security best practices in web applications.
+
+Exposure to machine learning or data science projects.
+
+Soft Skills
+
+Excellent communication and collaboration skills.
+
+Strong attention to detail and ability to write clean, maintainable code.
+
+Ability to manage time effectively and prioritize tasks.
+
+Proactive mindset and eagerness to learn new technologies.
+
+What We Offer
+
+Competitive salary: $110,000–$140,000 per year (depending on experience)
+
+Health, dental, and vision insurance
+
+401(k) retirement plan with company match
+
+Flexible working hours and remote work options
+
+Generous paid time off (PTO) and parental leave
+
+Professional development budget and training opportunities
+
+Collaborative and supportive work environment with regular team events
