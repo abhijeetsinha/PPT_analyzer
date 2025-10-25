@@ -1,0 +1,43 @@
+# Environment variables and secrets
+.env
+*.env
+
+# Virtual environment
+my_venv/
+venv/
+env/
+.venv/
+
+# Output files (generated content)
+output/
+*.csv
+*.txt
+
+# Video files (too large for GitHub)
+*.mp4
+*.avi
+*.mov
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large sample files (optional - you can include small samples)
+sample_resumes/
+sample_ppts/
+
+# Logs
+*.log
