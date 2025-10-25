@@ -6,3 +6,5 @@ langchain_openai
 langgraph
 IPython
 pdfplumber
+python-pptx
+pandas
