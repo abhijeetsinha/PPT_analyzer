@@ -1,43 +1,89 @@
-# Environment variables and secrets
-.env
-*.env
+# Environment variables and secrets# Environment variables and secrets
 
-# Virtual environment
-my_venv/
-venv/
-env/
-.venv/
+.env.env
 
-# Output files (generated content)
-output/
-*.csv
+*.env*.env
+
+
+
+# Virtual environment# Virtual environment
+
+my_venv/my_venv/
+
+venv/venv/
+
+env/env/
+
+.venv/.venv/
+
+
+
+# Output files (generated content)# Output files (generated content)
+
+output/output/
+
+*.csv*.csv
+
 *.txt
 
 # Video files (too large for GitHub)
-*.mp4
-*.avi
+
+*.mp4# Video files (too large for GitHub)
+
+*.avi*.mp4
+
+*.mov*.avi
+
 *.mov
 
 # Python cache
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
+
+__pycache__/# Python cache
+
+*.pyc__pycache__/
+
+*.pyo*.pyc
+
+*.pyd*.pyo
+
+.Python*.pyd
+
 .Python
 
 # IDE files
-.vscode/
-.idea/
-*.swp
+
+.vscode/# IDE files
+
+.idea/.vscode/
+
+*.swp.idea/
+
+*.swo*.swp
+
 *.swo
 
 # OS files
-.DS_Store
+
+.DS_Store# OS files
+
+Thumbs.db.DS_Store
+
 Thumbs.db
 
-# Large sample files (optional - you can include small samples)
-sample_resumes/
+# Sample files
+
+sample_resumes/# Large sample files (optional - you can include small samples)
+
+sample_ppts/sample_resumes/
+
 sample_ppts/
 
 # Logs
+
+*.log# Logs
+
 *.log
+# Other project files (not related to PPT Analyzer)
+job_description.txt
+resume_analyzer.py
+workflow_graph.png
